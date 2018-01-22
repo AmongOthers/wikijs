@@ -15,6 +15,6 @@ function test() {
 
 
 
-## 由wiki.js提供支持
+## 由`wiki.js`提供支持
 
 ## 支持历史查看
