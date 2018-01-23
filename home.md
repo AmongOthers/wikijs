@@ -18,5 +18,3 @@ This is [an example](http://example.com/ "Title") inline link.
 ## 由`wiki.js`提供支持
 
 ## 支持历史查看
-
-## 
